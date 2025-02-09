@@ -1,0 +1,17 @@
+{
+	"id": "gorillajokers",
+	"name": "Gorilla Jokers",
+	"author": ["lunakittyyy", "staircase"],
+	"description": "terrible meme jokers based on gt",
+	"prefix": "gtj",
+	"main_file": "main.lua",
+	"priority": 133727,
+	"badge_colour": "#1c1c1c",
+	"badge_text_colour": "#ffffff",
+	"display_name": "Gorilla Tag",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (>=1.*)",
+		"Lovely (>=0.6)",
+	]
+}
